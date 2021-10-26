@@ -12,4 +12,6 @@ export class TipAmountComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  tipAmount = 20;
+
 }
